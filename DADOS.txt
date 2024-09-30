@@ -1,0 +1,29 @@
+# CRIACAO DO BANCO*
+python data/create_db.py
+
+# VINICIALIZAÇÃO DA APLICAÇÃO
+python main.py
+
+# CRIAR O VENV
+python -m venv .venv
+
+# ATIVAR VENV
+.venv\Scripts\activate
+
+# PARAR O VENV
+deactivate
+
+# BIBLIOTECA PARA WORD(DOCX)
+pip install python-docx
+
+# BIBLIOTECA PARA PDF(HTML)
+pip install reportlab
+
+# OUTRAS BIBLIOTECAS
+pip install openpyxl
+pip install pandas
+
+
+
+
+
